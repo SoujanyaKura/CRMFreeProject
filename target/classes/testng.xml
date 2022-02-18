@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice Suite" threas-count="3" parallerl="methods">
+  <test name="Test Basics 1">
+     
+      
+    <classes>
+       <class name="com.qa.crm.testcases.HomePageTest"/>
+       <!--  <class name="com.qa.crm.testcases.LoginPageTest"/>-->
+      <!--  <class name="com.qa.crm.testcases.DashboardPageTest"/>-->
+    </classes>
+     
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
